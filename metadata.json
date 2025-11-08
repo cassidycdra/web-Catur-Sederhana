@@ -1,0 +1,5 @@
+{
+  "name": "React Chess Game",
+  "description": "A simple and beautiful chess game built with React, TypeScript, and Tailwind CSS. The color scheme is based on purple and blue tones.",
+  "requestFramePermissions": []
+}
